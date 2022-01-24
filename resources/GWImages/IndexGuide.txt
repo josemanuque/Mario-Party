@@ -1,0 +1,15 @@
+1. mario
+2. luigi
+3. bowser
+4. peach
+5. daisy
+6. donkeyKong
+7. diddyKong
+8. yoshi
+9. toad
+10. shyGuy
+11. wario
+12. waluigi
+13. koopa
+14. floruga
+15. bullet
